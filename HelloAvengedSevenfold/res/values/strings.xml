@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Synyster Gates Rock God</string>
+    <string name="action_settings">Settings</string>
+    <string name="helloavengedsevenfold_play">Play</string>
+    <string name="helloavengedsevenfold_pause">Pause</string>
+    <string name="helloavengedsevenfold_stop">Stop</string>
+    <string name="helloavengedsevenfold_description">Bat Country (2005)</string>
+
+</resources>
