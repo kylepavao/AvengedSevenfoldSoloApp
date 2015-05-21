@@ -5,14 +5,24 @@ import android.os.Bundle;
 import android.view.Menu;
 import android.view.MenuItem;
 
+/*
+ * Activity for the main panel of the application
+ */
 public class HelloAvengedSevenfoldActivity extends FragmentActivity {
-
+        
+        /*
+         * Params: Saved instance of application
+         * Creates panel with layout defined in activity_hello_avenged_sevenfold.xml
+         */
 	@Override
 	protected void onCreate(Bundle savedInstanceState) {
 		super.onCreate(savedInstanceState);
 		setContentView(R.layout.activity_hello_avenged_sevenfold);
 	}
 
+        /*
+         * Creates option menu
+         */
 	@Override
 	public boolean onCreateOptionsMenu(Menu menu) {
 		// Inflate the menu; this adds items to the action bar if it is present.
